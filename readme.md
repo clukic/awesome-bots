@@ -2,11 +2,15 @@
 
 ![Botcube awesome bots chatbots](https://botcube.co/public/awesome-bots/wide.png)
 
-> A curated list of bot related resources (both chat and voice bots) by the [Botcube team](https://botcube.co/).
+> Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-### Get [five epic actionable bot tricks](https://botcube.co/newsletter) delivered to your email once a week. We're waiting for you! 🤖
+### We also run one of the most active Facebook communities (400+ members) and Telegram channel (1,450+ members) about bots.
 
-Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+You can request access here:
+
+1. Facebook group (information, tactics and strategies for designing, building, and marketing bots): https://www.facebook.com/groups/botdesigners/
+
+2. Telegram channel (hot industry news & insights): https://t.me/botcube
 
 ## Table of Contents
 - [Newsletters](#newsletters)
@@ -63,6 +67,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Technically Sentient](https://inside.com/technically-sentient) - Bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology
 * [Locutius](http://tinyletter.com/locutius) - Locutius starts your week with with everything you need to know about the design and business of conversational systems, from voice to chatbots, plus the machine intelligence that powers it all
 * [UX for Bots](http://tumblr.us10.list-manage.com/subscribe?u=abc28827ca1442d42b7900c42&id=581301db03) - A monthly recap of the best content shared on the UX for Bots Facebook group in your inbox
+* [Chatbots weekly digest](http://www.chatbotsdigest.com/) - A weekly digest of chatbot and AI related news
 
 ### Podcasts and episodes
 * [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast) - The O'Reilly Bots Podcast covers advances in conversational user interfaces, artificial intelligence, and messaging that are revolutionizing the way we interact with software
@@ -86,6 +91,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Visabot](https://www.messenger.com/t/visabot/) - Visabot for Facebook Messenger is an immigration attorney 2.0 Inspired by U.S. top immigration lawyers to deliver the results no lawyer can match
 * [Hipmunk](https://www.messenger.com/t/hipmunk/) - Hipmunk chatbot for Facebook Messenger is a super-powered Hipmunk who digs through tons of travel options to help you find the best flights and hotels
 * [Mica, the Hipster Cat Bot](https://hipstercatbot.com) - Mica, the Hipster Cat Bot is a venue recommendation bot that helps you discover the best places worldwide - on FB Messenger, Skype, Kik, Telegram
+* [Nikabot](https://www.nikabot.com) - A Slack bot that keeps track of what your team is doing so you don't have to 
 
 ### Directories (lists)
 * [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
@@ -145,15 +151,19 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Wordhop](https://www.wordhop.io/) - Wordhop enables humans and AI to work together to enhance customer service, drive eCommerce transactions, and keep customers engaged in conversation
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
 * [ChatbotProxy](https://www.chatbotproxy.com/) - Extensible proxy between your chatbot and providers. It helps debug incoming/outgoing requests using `curl`. And it keeps per page metrics for Facebook Messenger bot apps.
+* [Botmeter](https://www.botfuel.io/features/botmeter) - Follow performance, optimize conversations and understand your customers' behaviors through our analytics application.
 
 #### Marketing
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
 * [Hunch](http://hunchinsights.com) - Hunch is your powerful but super simple analytics assistant that constantly monitors your marketing metrics. From answering AARRR  funnel questions to automating your weekly and monthly reporting.
 * [Boim](https://bo.im) - Bo.im is gateway to all your channels. It can link to all of your bots, contact info, locations, websites, and much more, while behaving according to where it was clicked on.
+* [Messengerify](https://messengerify.me/) - Messengerify will connect the website with your Facebook Page and provide a better chat experience for your customers. Even if visitor leaves your website the conversation can continue via Messenger.
+* [WhatsHelp](https://whatshelp.io/) - Messenger Marketing Platform for marketers and entrepreneurs. Grow your subscriber list, create smart bots, and broadcast messages in just a few clicks.
 
 #### Monetization
 * [RadBots](https://radbots.com/) - Monetization Tools For Bots
 * [waves.ai](https://www.waves.ai/) - Learn, grow & let your goals become reality
+* [cashbot.ai](https://cashbot.ai/?fref=gc) - Monetization platform for chat & voice experiences that leverages the rich context of conversation to make relevant, timely product recommendations which lead directly to sales conversions via mobile & traditional E-Commerce.
 
 #### Prototyping
 * [BotSociety](https://botsociety.io/) - Design your chatbot. The fastest way to create a bot experience preview
@@ -168,11 +178,12 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Messenger demo viewer](https://messenger-demo-viewer.kilianvalkhof.com) - Demo your Messenger bot interaction without showing personal chats
 * [ChatMapper](http://www.chatmapper.com/) - writing and testing non-linear dialogs
 * [Cheap Bots, Done Quick!](http://www.cheapbotsdonequick.com/) - Help you make a Twitterbot! They're easy to make and free to run.
+* [BotMockup for Telegram](http://mockuprobot.voltsoft.ru/) - Superfast mockup-tool for Telegram bots! Totaly free. Construct and send messages to the sample bot and make screenshots.
 
 #### Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
-* [BotFlair](https://botflair.com/) - Enhance your bot's conversational skills today
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
+* [Chatbottest](http://chatbottest.com/) - ChatbotTest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 
 #### Monitoring
 * [Dimon](https://dimon.co/) - Monitor your production bot with predefined user scenarios
@@ -222,6 +233,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Chatbot's Life](https://chatbotslife.com/) - Everything you want to know about chatbots
 * [ChatbotNewsDaily](https://chatbotnewsdaily.com/) - An Introduction to Chatbots, Messaging Channels and the History of Artificial Intelligence and Robots
 * [Bot Stash](http://www.botsfloor.com/botstash/) - A curated directory of chat bot resources & tools
+* [Planeta Chatbot](https://planetachatbot.com/?fref=gc) - A chatbot magazine originally created in Spain with the purpose of sharing the latest content about chatbots.
+* [UX of Chatbots](http://uxofchatbots.com/) - A curated list of resources to help you on your journey into the User Experience of Chatbots.
 
 ### Job boards
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers.
@@ -231,6 +244,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Botified](https://botified.io/) - Hire Quality Bot Developers And Find Bot Jobs
 * [ChatbotJobs](https://chatbotjobs.co/) - Find the remote or onsite job related to bots, AI, NLP, machine learning, data, neural networks
 * [BotGig](http://www.botgig.com/) - Hire a top-tier development team to build your chatbot
+* [BotMakers Projects](https://www.facebook.com/groups/439131813146973) - A Facebook group with Chatbot Development projects curated by BotMakers.
 
 ### NLP (tools, engines, SDKs, frameworks)
 * [wit.ai](https://wit.ai/) - Natural Language Service for Developers from Facebook
@@ -284,6 +298,10 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [PandortaBots](http://www.pandorabots.com/)
 * [Recime](https://www.recime.io/) - We empower developers to quickly & effectively create serverless bots and deploy them across many channels at once.
 * [MachinaBot](https://machinabot.com/is) - A Smart Relay Gateway Designed for Bots.
+* [Coren](https://heycoren.com/?fref=gc) - Coren allows both businesses and individuals to easily build & use chatbots to automate repetitive tasks, in an innovative way.
+* [JetLink](https://jetlink.io/) - AI powered messaging platform for easy commerce and better support.
+* [Broid](https://broid.ai) - Broid’s API enables bots & softwares to converse on more than 20 top messaging channels, including an interactive live chat (web & apps) powered by the best conversational features available. No more doc reading, coding and testing, leverage new channels with the flip of a switch on your dashboard.
+* [WhatsHelp](https://whatshelp.io/) - Messenger Marketing Platform for marketers and entrepreneurs. Grow your subscriber list, create smart bots, and broadcast messages in just a few clicks.
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
@@ -350,6 +368,12 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Recime](https://www.recime.io/) - A powerful platform for developers to build enterprise-grade bots. Recime provides the bot framework, developer tools, and a serverless cloud infrastructure.
 * [PHPFaceBot](https://github.com/bigicoin/phpfacebot) - PHP Facebook Messenger bot framework/starter kit
 * [TestMyBot](https://github.com/codeforequity-at/testmybot) - Automated Testing for Chatbots
+* [Messaging APIs](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
+* [Broid Integrations](https://github.com/broidHQ/integrations) - Open Source version of Broid's API to converse on 20 top messaging channels with one single integration
+* [Broid for Botpress](https://github.com/broidHQ/broid-kit-botpress) - Broid Kit Middleware for Botpress
+* [Broid Kit](https://github.com/broidHQ/broid-kit) - Bot framework powered by Broid
+* [YveBot](https://github.com/andersonba/yve-bot) - The simplest way to build a smart and customized rule-based bot conversation. For Browser & Node.
+
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
@@ -357,6 +381,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Facebook Messenger wit.ai node.js boilerplate](https://github.com/SimplyTechnologies/messenger-bot-wit-boilerplate)
 * [Web Chatbot Bootsrap Kit in Whatsapp style](https://github.com/AdrianKrebs/chatbot-bootstrap)
 * [Node Telegram bot boilerplate](https://github.com/txwkx/node-telegram-bot-boilerplate)
+* [Node BotUI + API.AI App Boilerplate](https://github.com/sushantshekhar20/bot_api.ai)
 
 #### Tutorials/Guides
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.54ql2uhaf)
@@ -381,9 +406,18 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Pair Programming a Facebook Messenger Bot](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 * [How To Create a Telegram Bot Using Python](https://khashtamov.com/2017/02/how-to-create-a-telegram-bot-using-python/)
+* [How to integrate a Dozen Messaging Platforms in 5 Minutes](https://medium.com/broid/integrate-a-dozen-messaging-platforms-in-5-minutes-4d77ee48f4c3)
+
+### Useful articles
+* [Comparison: ManyChat vs Chatfuel](https://www.thinktuitive.com/comparison-manychat-vs-chatfuel) - ManyChat vs Chatfuel in-depth review & comparison.
+* [Revenue models for bots and chatbots](https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07) - In this article Amir Shevat from Slack has reviewed the direct and indirect ways that bots can drive revenue to a business.
+* [How to Build a Basic Messenger Bot with ManyChat](https://www.thinktuitive.com/how-to-build-a-messenger-bot-with-manychat/)
+* [How to Build a Basic Messenger Bot with Chatfuel](https://www.thinktuitive.com/how-to-build-a-messenger-bot-with-chatfuel/)
+* [Design Framework For Chatbots](https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3)
 
 ### Agencies
 * [BotCube](https://botcube.co/) - 🤖 We help companies create great chatbots. We believe that in 3-5 years messaging apps will be the main distribution channels for businesses, and every company should have a bot to stay connected with their customers 🤖
+* [Chatbot Developers on BotMakers](https://botmakers.net/chatbot-developers) - 157 (and counting) chatbot development agencies from the [United States](https://botmakers.net/chatbot-developers/in/usa), [Ukraine](https://botmakers.net/chatbot-developers/in/ukraine), [Canada](https://botmakers.net/chatbot-developers/in/canada), [UK](https://botmakers.net/chatbot-developers/in/uk), [Brazil](https://botmakers.net/chatbot-developers/in/brazil), [India](https://botmakers.net/chatbot-developers/in/india), [Germany](https://botmakers.net/chatbot-developers/in/germany), [Israel](https://botmakers.net/chatbot-developers/in/israel), [France](https://botmakers.net/chatbot-developers/in/france), [Belarus](https://botmakers.net/chatbot-developers/in/belarus), [Italy](https://botmakers.net/chatbot-developers/in/italy), [Austria](https://botmakers.net/chatbot-developers/in/austria) and other countries.
 * [Letzgro](http://letzgro.net/) - With development team in Ukraine and availability throughout time zones, Letzgro gets hired for most critical web, mobile, video streaming and AI projects
 * [Xbots](http://xbots.ai/) - Xbots provides chatbot and conversational AI solutions for your business, personalizing the customer experience
 * [Argoz](http://argoz.io/) - Powering natural language understanding with Artificial Intelligence
@@ -423,7 +457,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Voxable](http://www.voxable.io) - Voxable builds conversational and voice interfaces for products
 * [BotSupply](http://botsupply.co/) - We Create Bots for Brands and Agencies
 * [Unibot](http://unibot.ai/) - We create personalized bots for businesses
-
+* [BotCopy](https://www.botcopy.com/) - A bot writing and design agency based in sunny LA.
 ### Influencers/People
 * **Dag Kittlaus** - Co-Founder/CEO Siri & Viv Labs. [Twitter](https://twitter.com/Dagk) [Medium](https://medium.com/@Dagk)
 * **Oren Jacob** - Founder and CEO, PullString. [Twitter](https://twitter.com/orenjacob) [Medium](https://medium.com/@orenjacob) [Facebook](https://facebook.com/748835990)
@@ -445,7 +479,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * **Pavel Durov** - Founder, CEO at Telegram; Founder, ex-CEO of VK. [Twitter](https://twitter.com/durov) [Instagram](https://www.instagram.com/durov/?hl=en) [Facebook](https://www.facebook.com/durov)
 * **Dmitry Matskevich** - Co-Founder of Icon8. [ProductHunt](https://www.producthunt.com/@dmitry_matskevich) [Twitter](https://twitter.com/matskevich?lang=en) [Linkedin](https://www.linkedin.com/in/mdima/)
 * **Mikhail Naumov** - Co-Founder & President of DigitalGenius. [Linkedin](https://www.linkedin.com/in/mikhailnaumov/) [Twitter](https://twitter.com/mikhailnaumov?lang=en) [Facebook](https://www.facebook.com/mikhail.naumov)
-* **Artyom Keydunov** - ‎Co-Founder & CEO at Statsbot. [Linkedin](https://www.linkedin.com/in/keydunov/) [Linkedin](https://twitter.com/keydunov?lang=en) [Medium](https://medium.com/@keydunov) [Facebook](https://www.facebook.com/artkey)
+* **Artyom Keydunov** - Co-Founder & CEO at Statsbot. [Linkedin](https://www.linkedin.com/in/keydunov/) [Linkedin](https://twitter.com/keydunov?lang=en) [Medium](https://medium.com/@keydunov) [Facebook](https://www.facebook.com/artkey)
 * **David Pichsenmeister** - Co-founder of oratio; Organizer of ChatbotConf and BotsHackathon. [Medium](https://medium.com/@3x14159265) [ProductHunt](https://www.producthunt.com/@3x14159265) [Twitter](https://twitter.com/3x14159265)
 * **Mike Gozzo** - Co-Founder of Smooch [Twitter](https://twitter.com/gozmike) [Linkedin](https://www.linkedin.com/in/mgozzo/) [ProductHunt](https://www.producthunt.com/@gozmike) [Medium](https://medium.com/@gozmike)
 * **Mikhail Larinov** - Head of Platform at Facebook Messenger. [Facebook](https://www.facebook.com/mikhail99) [Twitter](https://twitter.com/vernon99) [Linkedin](https://www.linkedin.com/in/mikhail-larionov-7601a510/)
@@ -458,6 +492,8 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * **Alexander Gamanyuk** - Founder of [ChatBottle](https://chatbottle.co/) & [BotMakers](https://botmakers.net/) [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [ProductHunt](https://www.producthunt.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
 * **Dan Gailey** - Founder and CEO of RadBots [Twitter](https://twitter.com/dpg) [Facebook](https://www.facebook.com/dpgailey) [Linkedin](https://www.linkedin.com/in/dangailey/)
 * **Barbara Ondrisek** - Co-Founder & CEO of Chatbots Agency, creator and cat mother of Mica, the Hipster Cat Bot [Twitter](https://twitter.com/electrobabe) [Facebook](https://facebook.com/electrobabe) [Linkedin](https://linkedin.com/in/electrobabe/)
+* **Issam Hakimi** - Founder and CEO of Broid [Twitter](https://twitter.com/killix) [ProductHunt](https://www.producthunt.com/@killix) [Linkedin](https://www.linkedin.com/in/issamhakimi)
+* **Jesús Martín** - Co-Founder of ChatbotTest [Twitter](https://twitter.com/chus9000) [ProductHunt](https://www.producthunt.com/@jesusmartin) [Linkedin](https://www.linkedin.com/in/jesusmartinjimenez/)
 
 ### Events/Conferences/Meetups
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
@@ -494,14 +530,17 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Bot Theory](https://github.com/dpgailey/bot-theory-book) - Bot Theory: A Concise Introduction. Defining the scope, components, architecture and relationships of bots and their environments
 
 ### Communities/chats
+* [Bot Designers, Developers & Marketers](https://www.facebook.com/groups/botdesigners/) - Facebook community where experts share information, tactics and strategies for designing, building, and marketing bots.
 * [BotCube channel on Telegram](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
 * [BotChat on Telegram](https://t.me/botcubechat) - 🤖 Public chat where we discuss different topics about bots, bot development, platforms, news etc. 🤖
+* [Bot Academy](https://www.facebook.com/groups/BotAcademy/) - Facebook community for people interested in bots and Facebook Messenger Marketing.
 * [Bots group - Facebook](https://www.facebook.com/groups/chatbot/) - This is a private group for people interested in learning about and building chat bots
 * [BOTS group - Facebook](https://www.facebook.com/groups/1164551213581286/) - Facebook group about chatbots
 * [Chatbots News](http://news.chatbotsmagazine.com/login) - An intelligent, supportive, and collaborative community for chatbot developers, designers, creators, and enthusiasts. Moderated by the Chatbots Magazine team
 * [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Build together the best experience for bots!  Share the best resources, discuss about UX & bots
 * [HHBots](https://www.facebook.com/groups/hhbots/) - This group was created to provide a place for people to talk about their favorite facebook bots, slack bots, or any kind of bots!
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - This is a forum for developers building on the Messenger platform to interact with the Messenger team and other developers
+* [Botmakers](https://botmakers.slack.com) - Slack community for bot enthousiasts, developers & marketers
 
 ### License
 
